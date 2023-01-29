@@ -1,0 +1,17 @@
+Front
+<div id="rubric">{{Tag}}</div>
+
+note: I recommend you to creat a specific field for your tag
+
+Style
+
+#rubric {
+  text-align: left;
+  padding: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 10px;
+  background: #1d6695;
+  color: white;
+  font-weight: 500;
+}
