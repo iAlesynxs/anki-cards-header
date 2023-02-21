@@ -1,7 +1,7 @@
 Front
 <div id="rubric">{{Tag}}</div>
 
-//I recommend you to creat a specific field for your Header
+//I recommend you to create a specific field for your Header
 
 Style
 
