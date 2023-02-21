@@ -1,7 +1,7 @@
 Front
 <div id="rubric">{{Tag}}</div>
 
-\\note: I recommend you to creat a specific field for your tag
+//I recommend you to creat a specific field for your tag
 
 Style
 
